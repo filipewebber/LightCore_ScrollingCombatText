@@ -1,0 +1,15 @@
+﻿## Interface: 120000, 120001
+## Title: LightCore ScrollingCombatText
+## Notes: Lightweight scrolling damage, healing and mitigation text.
+## Author: LightCore
+## Version: 0.1.0
+## IconTexture: Interface\AddOns\LightCore_ScrollingCombatText\icon.tga
+## SavedVariables: LightCore_ScrollingCombatTextDB
+
+LightCore_ScrollingCombatText.lua
+LightCore_ScrollingCombatText_Display.lua
+LightCore_ScrollingCombatText_CombatEvents.lua
+LightCore_ScrollingCombatText_Settings.lua
+LightCore_ScrollingCombatText_Settings_TextStyles.lua
+LightCore_ScrollingCombatText_Settings_Animation.lua
+LightCore_ScrollingCombatText_Settings_CombatFlags.lua

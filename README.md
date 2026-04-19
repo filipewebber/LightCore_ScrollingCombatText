@@ -1,6 +1,6 @@
-﻿# LightCore Scrolling Combat Text
+﻿# LightCore ScrollingCombatText
 
-LightCore Scrolling Combat Text is a lightweight World of Warcraft addon that gives you a clean, customizable scrolling lane for incoming damage, healing and mitigation.
+LightCore ScrollingCombatText is a lightweight World of Warcraft addon that gives you a clean, customizable scrolling lane for incoming damage, healing and mitigation.
 
 Designed to stay out of your way:
 - Lightweight
@@ -10,9 +10,9 @@ Designed to stay out of your way:
 ## Features
 
 - Movable floating lane for player combat events
-- Adjustable alignment, font, font size, crit size, and text effect
+- Adjustable font, font size, crit size, and text effect
 - Minimum damage/healing filters based on your max health percentage
-- Quick access to settings with `/lcc`
+- Quick access to settings with `/lcs` or `/lcsct`
 
 ## About LightCore
 
